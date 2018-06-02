@@ -25,8 +25,8 @@ Dillinger uses a number of open source projects to work properly:
 
 * [markdown-it] - Markdown parser done right. Fast and easy to extend.
 * [node.js] - evented I/O for the backend
-  [Javascript] - An awesome Object oriented language
-  [Moment.JS] - Working with date & time can never be easier!
+* [Javascript] - An awesome Object oriented language
+* [Moment.JS] - Working with date & time can never be easier!
 
 
 
