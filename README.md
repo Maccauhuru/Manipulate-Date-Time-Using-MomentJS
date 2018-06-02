@@ -40,5 +40,6 @@ License
 ----
 MIT
 
-## Contact Repositoty Owner
+## Contact Repository Owner
 simba@400nodes.com
+
